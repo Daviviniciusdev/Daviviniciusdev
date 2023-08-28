@@ -1,5 +1,5 @@
 <!-- Slide Nome -->
-[![Nome](https://readme-typing-svg.herokuapp.com/?color=00FF16&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Daviviniciusdev-+Desenvolvedor+Front-end+;)](https://git.io/typing-svg)
+[![Nome](https://readme-typing-svg.herokuapp.com/?color=00FF16&size=35&center=true&vCenter=true&width=1000&lines=Olá+Sou+Daviviniciusdev-+Desenvolvedor+Mobile+;)](https://git.io/typing-svg)
 
 
 <!--  tecnologias  -->
